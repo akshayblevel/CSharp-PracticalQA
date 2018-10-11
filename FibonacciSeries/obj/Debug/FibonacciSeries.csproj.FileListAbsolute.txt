@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FibonacciSeries\bin\Debug\FibonacciSeries.exe.config
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FibonacciSeries\bin\Debug\FibonacciSeries.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FibonacciSeries\obj\Debug\FibonacciSeries.csprojResolveAssemblyReference.cache
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FibonacciSeries\obj\Debug\FibonacciSeries.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FibonacciSeries\obj\Debug\FibonacciSeries.pdb

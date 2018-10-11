@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe.config
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FactorialOfNumber\bin\Debug\FactorialOfNumber.pdb
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FactorialOfNumber\obj\Debug\FactorialOfNumber.csprojResolveAssemblyReference.cache
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FactorialOfNumber\obj\Debug\FactorialOfNumber.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FactorialOfNumber\obj\Debug\FactorialOfNumber.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\FactorialOfNumber\obj\Debug\FactorialOfNumber.pdb
