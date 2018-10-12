@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseTheNumber\bin\Debug\ReverseTheNumber.exe.config
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseTheNumber\bin\Debug\ReverseTheNumber.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseTheNumber\bin\Debug\ReverseTheNumber.pdb
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseTheNumber\obj\Debug\ReverseTheNumber.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseTheNumber\obj\Debug\ReverseTheNumber.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseTheNumber\obj\Debug\ReverseTheNumber.pdb
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseTheNumber\obj\Debug\ReverseTheNumber.csprojResolveAssemblyReference.cache

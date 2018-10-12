@@ -1,0 +1,6 @@
+D:\AKKI_DEV\RND\CSharp-PracticalQA\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+D:\AKKI_DEV\RND\CSharp-PracticalQA\SumOfDigits\bin\Debug\SumOfDigits.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\SumOfDigits\bin\Debug\SumOfDigits.pdb
+D:\AKKI_DEV\RND\CSharp-PracticalQA\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-PracticalQA\SumOfDigits\obj\Debug\SumOfDigits.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\SumOfDigits\obj\Debug\SumOfDigits.pdb

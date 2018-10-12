@@ -1,0 +1,6 @@
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseStringWithoutReverseFunction\bin\Debug\ReverseStringWithoutReverseFunction.exe.config
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseStringWithoutReverseFunction\bin\Debug\ReverseStringWithoutReverseFunction.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseStringWithoutReverseFunction\bin\Debug\ReverseStringWithoutReverseFunction.pdb
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseStringWithoutReverseFunction\obj\Debug\ReverseStringWithoutReverseFunction.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseStringWithoutReverseFunction\obj\Debug\ReverseStringWithoutReverseFunction.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\ReverseStringWithoutReverseFunction\obj\Debug\ReverseStringWithoutReverseFunction.pdb

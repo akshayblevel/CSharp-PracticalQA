@@ -1,0 +1,6 @@
+D:\AKKI_DEV\RND\CSharp-PracticalQA\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\AKKI_DEV\RND\CSharp-PracticalQA\BinarySearch\bin\Debug\BinarySearch.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\AKKI_DEV\RND\CSharp-PracticalQA\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-PracticalQA\BinarySearch\obj\Debug\BinarySearch.exe
+D:\AKKI_DEV\RND\CSharp-PracticalQA\BinarySearch\obj\Debug\BinarySearch.pdb
